@@ -1,7 +1,6 @@
+😀 Jinsheng Qi (binqibang), a programmer and photographer！
 
 # About me
-
-😀 Name: Jinsheng Qi (binqibang)
 
 🚩 Education:
 
