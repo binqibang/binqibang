@@ -1,19 +1,23 @@
-😀 Jinsheng Qi (binqibang), a programmer and photographer！
+😀 Jinsheng Qi (binqibang), a programmer and photographer, whose dream is to travel around the world.
 
 # About me
 
 🚩 Education:
 
-- 2017~2021: Sichuan University for Undergraduate
+- 2017/9 ~ 2021/6: Sichuan University, Undergraduate
   
-- 2021~2024: Beijing University of Posts and Telecommunications for Graduate
-  
+- 2021/9 ~ 2024/6: Beijing University of Posts and Telecommunications, Graduate
 
-📌 Loaction: Beijing | Chengdu, China
+🖥️ Work Experience：
+- 2023/6 ~ 2023/9:  Java Backend Develop, Cainiao BU, Alibaba INC (Intern)
 
-🎨 Research interests: Multimodal Learning, VideoQA
+- 2024/4 ~ 2024/8:  LLM Develop & Data Analysis, KUNLUN INC (Intern)
 
-💪 Skills: Java, Go, C#, Python
+- 2024/8 ~ : Java Backend Develop, Agricultural Bank of China
+
+📌 Loaction: Xian, China
+
+💪 Skills: Java, Go, Python
 
 # Contact me
 
@@ -22,6 +26,10 @@
 👁️ Weibo: 七磅一百一十一便士
 
 ⭕ Instagram: binqibang
+
+# Travel Trail
+- 🪆 Russia 2019: [20 days] Moscow, Nizhny Novgorod
+- 🗻 Japan  2024: [10 days] Tokyo, Kamakura, Kyoto, Osaka, Uji, Nana, Kobe
 
 <!---
 binqibang/binqibang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
