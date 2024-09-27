@@ -7,8 +7,8 @@
 - 2021/9 ~ 2024/6: Beijing University of Posts and Telecommunications, Graduate
 
 📜 Paper:
-1. Qi J, Li F, Bai T, et al. FHGN: frame-level heterogeneous graph networks for video question answering[C]//2022 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2022: 01-06.
-2. Qi J, Xu Y, Wu B. Bottom-Up Hierarchical Propagation Networks with Heterogeneous Graph Modeling for Video Question Answering[C]//2024 International Joint Conference on Neural Networks (IJCNN). IEEE, 2024: 1-8.
+- Qi J, Li F, Bai T, et al. FHGN: frame-level heterogeneous graph networks for video question answering[C]//2022 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2022: 01-06.
+- Qi J, Xu Y, Wu B. Bottom-Up Hierarchical Propagation Networks with Heterogeneous Graph Modeling for Video Question Answering[C]//2024 International Joint Conference on Neural Networks (IJCNN). IEEE, 2024: 1-8.
 
 🖥️ Work Experience：
 - 2023/6 ~ 2023/9:  Java Backend Develop, Cainiao BU, Alibaba INC (Intern)
