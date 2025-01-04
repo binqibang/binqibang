@@ -13,7 +13,7 @@
 🖥️ Work Experience：
 - 2023/6 ~ 2023/9:  Java Backend Develop, Cainiao BU, Alibaba INC (Intern)
 - 2024/4 ~ 2024/8:  LLM Develop & Data Analysis, KUNLUN INC (Intern)
-- 2024/8 ~ : Java Backend Develop, ABC
+- 2024/7 ~ : Java Backend Develop, ABChina
 
 📌 Loaction: Xian, China
 
