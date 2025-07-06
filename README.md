@@ -1,4 +1,4 @@
-😀 Jinsheng Qi (binqibang), a programmer and photographer, whose dream is to travel around the world.
+😀 A programmer and photographer, whose dream is to travel around the world.
 
 # About me
 
