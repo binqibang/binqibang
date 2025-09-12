@@ -32,6 +32,8 @@
 
 🗻 Japan  2024: [10 days] Tokyo, Kamakura, Kyoto, Osaka, Uji, Nana, Kobe
 
+🛕 Thailand 2025: [7 days] Bangkok, Pattaya, ChiangMai
+
 <!---
 binqibang/binqibang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
