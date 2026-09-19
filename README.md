@@ -13,17 +13,16 @@
 🖥️ Work Experience：
 - 2023/6 ~ 2023/9:  Java Backend Develop, Cainiao BU, Alibaba INC (Intern)
 - 2024/4 ~ 2024/8:  LLM Develop & Data Analysis, KUNLUN INC (Intern)
-- 2024/7 ~ : Java Backend Develop, ABChina
+- 2024/7 ~ 2026/1: Java Backend Develop, ABChina
+- 2026/1 ~ : Agent Develop
 
-📌 Loaction: Xian, China
+📌 Loaction: Xian, Beijing China
 
 💪 Skills: Java, Go, Python
 
 # Contact me
 
 📫 Mail: binqibang@foxmail.com
-
-👁️ Weibo: 七磅一百一十一便士
 
 ⭕ Instagram: binqibang
 
@@ -33,6 +32,8 @@
 🗻 Japan  2024: [10 days] Tokyo, Kamakura, Kyoto, Osaka, Uji, Nana, Kobe
 
 🛕 Thailand 2025: [7 days] Bangkok, Pattaya, ChiangMai
+
+🌋 Indonesia 2026: [8 days] Jakarta, Yogyakarta, Surabaya, Bali
 
 <!---
 binqibang/binqibang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
