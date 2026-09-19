@@ -24,7 +24,7 @@
 
 📫 Mail: binqibang@foxmail.com
 
-⭕ Instagram: binqibang
+⭕ Instagram: [binqibang](https://www.instagram.com/binqibang/)
 
 # Travel Trail
 🪆 Russia 2019: [20 days] Moscow, Nizhny Novgorod
